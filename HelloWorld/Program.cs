@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //jakis fajny kod tutaj
         }
     }
 }
